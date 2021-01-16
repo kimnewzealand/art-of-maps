@@ -1,6 +1,8 @@
 ---
 title: "The Art of Maps"
+subtitle: <img style="border-radius: 50%;" src="https://github.com/kimnewzealand/art-of-maps/blob/master/img/amcharts-pixelMap.png?raw=true" width="850px"/>
 author: "Kim Fitter"
+
 date: "19 Jan 2021"
 output:
   xaringan::moon_reader: default
@@ -17,25 +19,23 @@ library(icon)
 # download_fontawesome()
 # remotes::install_github("gadenbuie/xaringanExtra")
 library(xaringanExtra)
-
-
-
-
+# remotes::install_github("hadley/emo")
 ```
 
 
----
 
 class: middle, center
 
 # About me
+
+[ `r icon::fontawesome("twitter")` @kim_fitter](https://twitter.com/kim_fitter)<br/>
 
 
 ### Developer at Xero
 
 ### Community organiser including R-Ladies meetup
 
-[@kim_fitter `r icon::fontawesome("twitter")`](https://twitter.com/kim_fitter)<br/>
+
 
 ---
 
@@ -45,25 +45,34 @@ class: inverse, center, middle
 # Coding is creative 
 
 ---
+class: center, middle
 
-<img style="border-radius: 50%;" src="https://github.com/kimnewzealand/art-of-maps/img/amcharts-pixelMap.png" width="150px"/>
+
+
+---
+class: center, middle
+
+<img style="border-radius: 50%;" src="https://github.com/kimnewzealand/art-of-maps/blob/master/img/doc-walks.PNG?raw=true" width="850px"/>
 
 ---
 
-<img style="border-radius: 50%;" src="https://github.com/kimnewzealand/art-of-maps/img/doc-walks.png" width="150px"/>
-
----
+class: inverse, center, middle
 
 # Thank you!
 
-.pull-right-wide[
-- [xaringan `r emo::ji("package")`](https://github.com/yihui/xaringan#xaringan) developed by Yihui Xie
-
-
 ### You can find the code and map sources here...
 
-- NZ hex pixel map https://www.amcharts.com/
-- DOC walking tracks https://observablehq.com/@kimnewzealand/art-of-maps
+.pull-right-wide[
+ Presentation made with [xaringan R `r emo::ji("package")`](https://github.com/yihui/xaringan#xaringan) developed by Yihui Xie
+
+
+
+
+
+
+DOC walking tracks https://observablehq.com/@kimnewzealand/art-of-maps
+
+
 
 .right[
 
