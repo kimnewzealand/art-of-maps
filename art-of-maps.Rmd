@@ -77,10 +77,12 @@ Walking tracks with leaflet.js and DOC open data https://observablehq.com/@kimne
 
 City roads generative tool using Open Street Map data https://anvaka.github.io/city-roads/?q=auckland
 
+Presentation on Netlify https://artofmaps.netlify.app/
+
 
 .right[
 
 [@kim_fitter `r icon::fontawesome("twitter")`](https://twitter.com/kim_fitter)<br/>
 [@kimnewzealand `r icon::fontawesome("github")`](https://github.com/kimnewzealand)<br/>
 ]]
----
+
