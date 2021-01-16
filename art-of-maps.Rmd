@@ -1,8 +1,6 @@
 ---
 title: "The Art of Maps"
-subtitle: <img style="border-radius: 50%;" src="https://github.com/kimnewzealand/art-of-maps/blob/master/img/amcharts-pixelMap.png?raw=true" width="850px"/>
 author: "Kim Fitter"
-
 date: "19 Jan 2021"
 output:
   xaringan::moon_reader: default
@@ -28,7 +26,7 @@ class: middle, center
 
 # About me
 
-[ `r icon::fontawesome("twitter")` @kim_fitter](https://twitter.com/kim_fitter)<br/>
+[ `r icon::fontawesome("twitter")` @Kim_Fitter](https://twitter.com/kim_fitter)<br/>
 
 
 ### Developer at Xero
@@ -47,12 +45,16 @@ class: inverse, center, middle
 ---
 class: center, middle
 
+## Auckland City Roads
 
+<img style="border-radius: 50%;" src="https://github.com/kimnewzealand/art-of-maps/blob/master/img/akl-roads.PNG?raw=true" width="950px"/>
 
 ---
 class: center, middle
 
-<img style="border-radius: 50%;" src="https://github.com/kimnewzealand/art-of-maps/blob/master/img/doc-walks.PNG?raw=true" width="850px"/>
+## DOC Walking Tracks
+
+<img style="border-radius: 50%;" src="https://github.com/kimnewzealand/art-of-maps/blob/master/img/doc-walks.PNG?raw=true" width="950px"/>
 
 ---
 
@@ -60,7 +62,7 @@ class: inverse, center, middle
 
 # Thank you!
 
-### You can find the code and map sources here...
+### You can find the data, code and map sources here...
 
 .pull-right-wide[
  Presentation made with [xaringan R `r emo::ji("package")`](https://github.com/yihui/xaringan#xaringan) developed by Yihui Xie
@@ -70,8 +72,10 @@ class: inverse, center, middle
 
 
 
-DOC walking tracks https://observablehq.com/@kimnewzealand/art-of-maps
+Walking tracks with leaflet.js and DOC open data https://observablehq.com/@kimnewzealand/art-of-maps
 
+
+City roads generative tool using Open Street Map data https://anvaka.github.io/city-roads/?q=auckland
 
 
 .right[
