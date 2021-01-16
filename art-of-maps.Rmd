@@ -1,0 +1,73 @@
+---
+title: "The Art of Maps"
+author: "Kim Fitter"
+date: "19 Jan 2021"
+output:
+  xaringan::moon_reader: default
+  html_document: default
+---
+
+```{r setup, include = FALSE}
+options(htmltools.dir.version = FALSE)
+library(knitr)
+library(tidyverse)
+# install.packages("remotes")
+# remotes::install_github("mitchelloharawild/icon")
+library(icon)
+# download_fontawesome()
+# remotes::install_github("gadenbuie/xaringanExtra")
+library(xaringanExtra)
+
+
+
+
+```
+
+
+---
+
+class: middle, center
+
+# About me
+
+
+### Developer at Xero
+
+### Community organiser including R-Ladies meetup
+
+[@kim_fitter `r icon::fontawesome("twitter")`](https://twitter.com/kim_fitter)<br/>
+
+---
+
+
+class: inverse, center, middle
+
+# Coding is creative 
+
+---
+
+<img style="border-radius: 50%;" src="https://github.com/kimnewzealand/art-of-maps/img/amcharts-pixelMap.png" width="150px"/>
+
+---
+
+<img style="border-radius: 50%;" src="https://github.com/kimnewzealand/art-of-maps/img/doc-walks.png" width="150px"/>
+
+---
+
+# Thank you!
+
+.pull-right-wide[
+- [xaringan `r emo::ji("package")`](https://github.com/yihui/xaringan#xaringan) developed by Yihui Xie
+
+
+### You can find the code and map sources here...
+
+- NZ hex pixel map https://www.amcharts.com/
+- DOC walking tracks https://observablehq.com/@kimnewzealand/art-of-maps
+
+.right[
+
+[@kim_fitter `r icon::fontawesome("twitter")`](https://twitter.com/kim_fitter)<br/>
+[@kimnewzealand `r icon::fontawesome("github")`](https://github.com/kimnewzealand)<br/>
+]]
+---
