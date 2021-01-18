@@ -26,14 +26,20 @@ class: middle, center
 
 # About me
 
-[ `r icon::fontawesome("twitter")` @Kim_Fitter](https://twitter.com/kim_fitter)<br/>
 
 
 ### Developer at Xero
 
+### Graduate of Enspiral Dev Academy
+
+### Previously worked as a Data Scientist
+
 ### Community organiser including R-Ladies meetup
 
+### Non traditional path to coding from project management
 
+
+[ `r icon::fontawesome("twitter")` @Kim_Fitter](https://twitter.com/kim_fitter)<br/>
 
 ---
 
@@ -49,6 +55,8 @@ class: center, middle
 
 <img style="border-radius: 50%;" src="https://github.com/kimnewzealand/art-of-maps/blob/master/img/akl-roads.PNG?raw=true" width="950px"/>
 
+ 
+
 ---
 class: center, middle
 
@@ -62,27 +70,20 @@ class: inverse, center, middle
 
 # Thank you!
 
-### You can find the data, code and map sources here...
+### You can find the map sources here...
 
 .pull-right-wide[
- Presentation made with [xaringan R `r emo::ji("package")`](https://github.com/yihui/xaringan#xaringan) developed by Yihui Xie
 
-
-
-
-
+City roads generative tool using Open Street Map data https://anvaka.github.io/city-roads/?q=auckland
 
 Walking tracks with leaflet.js and DOC open data https://observablehq.com/@kimnewzealand/art-of-maps
 
 
-City roads generative tool using Open Street Map data https://anvaka.github.io/city-roads/?q=auckland
 
-Presentation on Netlify https://artofmaps.netlify.app/
+- - - 
 
-
-.right[
-
-[@kim_fitter `r icon::fontawesome("twitter")`](https://twitter.com/kim_fitter)<br/>
-[@kimnewzealand `r icon::fontawesome("github")`](https://github.com/kimnewzealand)<br/>
-]]
+https://artofmaps.netlify.app/ presentation made with [xaringan R `r emo::ji("package")`](https://github.com/yihui/xaringan#xaringan) <br/> Code available here https://github.com/kimnewzealand/art-of-maps<br/><br/>
+[ `r icon::fontawesome("twitter")` @Kim_Fitter](https://twitter.com/kim_fitter)<br/>
+[ `r icon::fontawesome("github")` kimnewzealand.github.io](https://github.com/kimnewzealand)<br/>
+]
 
