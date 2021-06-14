@@ -1,7 +1,8 @@
+
 ---
 title: "The Art of Maps"
-author: "Kim Fitter"
-date: "21 June 2021"
+author: 'Kim Fitter'
+date: '21 June 2021<br/><br/><br/> <small><small>Slides available at <br/><https://artofmaps.netlify.app></small></small>'
 output:
   xaringan::moon_reader: default
   html_document: default
@@ -26,18 +27,22 @@ class: middle, center
 
 # About me
 
-
+--
 
 ### Engineer at Xero
+--
 
 ### Enspiral Dev Academy
+--
 
 ### Self taught and worked as a Data Scientist
+--
 
 ### Community organiser: R-Ladies and Xero Talks meetups
+--
 
 ### Non traditional path to coding from project management
-
+--
 
 [ `r icon::fontawesome("twitter")` @Kim_Fitter](https://twitter.com/kim_fitter)<br/>
 
@@ -60,7 +65,7 @@ class: center, middle
 ---
 class: center, middle
 
-## New Zealand DOC Walking Tracks
+## DOC Walking Tracks
 
 <img style="border-radius: 50%;" src="https://github.com/kimnewzealand/art-of-maps/blob/master/img/doc-walks.PNG?raw=true" width="950px"/>
 
