@@ -29,21 +29,24 @@ class: middle, center
 
 --
 
-### Engineer at Xero
+### Non traditional path to coding from project management
 --
 
-### Enspiral Dev Academy
---
 
 ### Self taught and worked as a Data Scientist
 --
 
+
+### Enspiral Dev Academy
+--
+
+
+### Engineer at Xero in the App Ecosystem
+--
+
 ### Community organiser: R-Ladies and Xero Talks meetups
---
 
-### Non traditional path to coding from project management
 --
-
 [ `r icon::fontawesome("twitter")` @Kim_Fitter](https://twitter.com/kim_fitter)<br/>
 
 ---
@@ -83,6 +86,14 @@ class: center, middle
 ## The "Blue Line"
 
 <img style="border-radius: 50%;" src="https://github.com/kimnewzealand/art-of-maps/blob/master/img/blueline.PNG?raw=true" width="950px"/>
+
+---
+class: center, middle
+
+## Missing Island
+
+<img style="border-radius: 50%;" src="https://github.com/kimnewzealand/art-of-maps/blob/master/img/missing_island.PNG?raw=true" width="950px"/>
+
 
 ---
 class: inverse, center, middle
