@@ -39,7 +39,7 @@ class: middle, center
 ### Engineer at Xero in the App Ecosystem
 --
 
-### Community organiser: R-Ladies and Xero Talks meetups
+### Community organiser: R and Xero Talks meetups
 --
 
 [ `r icon::fontawesome("twitter")` @Kim_Fitter](https://twitter.com/kim_fitter)<br/>
@@ -61,7 +61,7 @@ class: center, middle
 
 class: center, middle
 
-## Watercolour Maptiles
+## Stamen Watercolor Maptiles
 
 <img style="border-radius: 50%;" src="https://github.com/kimnewzealand/art-of-maps/blob/master/img/sounds.PNG?raw=true" width="950px"/>
 
